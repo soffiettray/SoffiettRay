@@ -22,6 +22,6 @@
  
 <div> 
  
-  ![Snake animation]([https://github.com/soffiettray](https://github.com/soffiettray)/soffiettray/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SoffiettRay/SoffiettRay/blob/output/github-contribution-grid-snake.svg)
 
 </div>
