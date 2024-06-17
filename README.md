@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Dev Ray *✧ :heart: 
+## Welcome to Dev Ray's profile *✧ :heart: 
 
  <div>
    <a href="https://github.com/soffiettray">
@@ -22,6 +22,6 @@
  
 <div> 
  
-![Snake animation](https://github.com/SoffiettRay/SoffiettRay/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/soffiettray/soffiettray/blob/output/github-contribution-grid-snake.svg)
 
 </div>
